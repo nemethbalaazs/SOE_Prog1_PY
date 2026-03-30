@@ -1,0 +1,15 @@
+{
+    "Adam": [
+        "Bob",
+        "Cheryl",
+        "David"
+    ],
+    "Bob": [
+        "Cheryl",
+        "Frank"
+    ],
+    "Cheryl": [
+        "David",
+        "Evan"
+    ]
+}

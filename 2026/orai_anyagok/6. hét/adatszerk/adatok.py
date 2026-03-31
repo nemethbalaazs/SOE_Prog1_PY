@@ -1,0 +1,30 @@
+PONTSZAMOK_TUPLE_LISTA=[
+    ("Anna",5),
+    ("Béla",4),
+    ("Csilla",5),
+    ("Anna",3),
+    ("Béla",2),
+    ("Dóri",4),
+    ("Csilla",4),
+    ("Anna",4),
+]
+
+PONTSZAMOK_LISTA_LISTA=[
+    ["Anna",5],
+    ["Béla",4],
+    ["Csilla",5],
+    ["Anna",3],
+    ["Béla",2],
+    ["Dóri",4],
+    ["Csilla",4],
+    ["Anna",4]
+]
+
+LATOGATOK_LISTA=[
+    "10.0.0.1",
+    "10.0.0.2",
+    "10.0.0.1",
+    "10.0.0.3",
+    "10.0.0.2",
+    "10.0.0.4",
+]

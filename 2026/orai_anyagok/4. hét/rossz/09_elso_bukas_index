@@ -1,0 +1,14 @@
+scores = [56, 72, 89, 45]
+
+
+def elso_bukas_index_rosszul(values):
+    idx = 0
+    for i, v in enumerate(values):
+        if v < 50:
+            idx = i
+            break
+    return idx  
+
+
+if __name__ == "__main__":
+    print("Első bukás indexe (hibás):", elso_bukas_index_rosszul([50, 60, 70]))

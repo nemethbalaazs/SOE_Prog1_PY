@@ -124,4 +124,4 @@ for karakter in piszkos_szoveg.lower():
 
 # A .split() paraméter nélkül automatikusan a szóközök mentén vág,
 # és ami a legjobb: LENYELI a felesleges / ismétlődő szóközöket!
-szavak_listaja = tiszta_szoveg.split()
+szavak_listaja = tiszta_szoveg.split() 
